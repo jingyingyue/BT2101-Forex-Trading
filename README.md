@@ -1,5 +1,5 @@
 # Forex Trading Algorithm
 
-This algorithm was created to generate as much positive returns as possible in foreign exchange trading.
+This algorithm was created to in hopes of generating as much positive returns as possible in foreign exchange trading.
 
-It was built based on Logistic Regression, Long Short-Term Memory (LSTM) and Moving Average Crossover.
+My strategy was to use machine learning and reinforce by retraining my model throughout the process. The algorithm was built based on Logistic Regression, Long Short-Term Memory (LSTM) and Moving Average Crossover.
