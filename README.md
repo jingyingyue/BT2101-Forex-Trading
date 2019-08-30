@@ -1,3 +1,5 @@
-# BT2101-Forex-Trading
+# Forex Trading Algorithm
 
-This foreign exchange (forex) trading algorithm was built based on Logistic Regression, Long Short-Term Memory (LSTM) and Moving Average Crossover
+This algorithm was created to generate as much positive returns as possible in foreign exchange trading.
+
+It was built based on Logistic Regression, Long Short-Term Memory (LSTM) and Moving Average Crossover.
